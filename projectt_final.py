@@ -222,3 +222,5 @@ while True:
                 if graphical_board[i][j][0] is not None:
                     SCREEN.blit(graphical_board[i][j][0], graphical_board[i][j][1])
         pygame.display.update()
+
+#this comment is only for testing
